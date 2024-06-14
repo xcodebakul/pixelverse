@@ -1,6 +1,4 @@
 # Pixelverse by PixelTap
-Recoded by [Naufaljct48](https://github.com/naufaljct48)  
-Special thanks to [@akasaid](https://github.com/akasakaid/pixelversexyzbot)
 
 # Feature
 - [x] Auto Claim Point
