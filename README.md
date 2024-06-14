@@ -18,7 +18,7 @@
 
 # Registration
 
-Start bot : [HERE](https://t.me/pixelversexyzbot?start=1007550735)
+Start bot : [HERE](https://t.me/pixelversexyzbot?start=741503016)
 
 # How to Use
 
